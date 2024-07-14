@@ -2,16 +2,12 @@
 <DOCTYPE html>
 <html>
 <head>
-<title>يوسف عليه السلام</title>
 </head>
 
 <body style="background-color:tan">
 
 <!--<img src="Pic/" alt="Pic" style="width:400px;heigth:400px;">--!>
 <h1 style="text-align:center;">قصة النبي يوسف عليه السلام</h1>
-<pre>
-                                      <img src="Pic/IMG_9735.PNG" alt="Pic" style="width:400px;heigth:400px;">
-</pre>
 
 <hr>
 <p><a href="#1">البداية</a></p>
@@ -58,4 +54,9 @@
 <h3 id="8">العبرة</h3>
 <p>قصة يوسف عليه السلام تحمل في طياتها العديد من الدروس والعبر. تعلمنا الصبر على البلاء, والوفاء لله مهما كانت الظروف, والعفو عند المقدرة. يوسف عليه السلام مثال رائع للامان, الحكمة,والتواضع.</p>
 <hr>
-
+<pre>
+<p>تابعني على إنستغرام:<a href="https://www.instagram.com/ia_di8/?hl=ar" target="_blank">@ia_di8</p>
+</pre>
+<hr>
+</body>
+</html>
