@@ -4,9 +4,7 @@
 <head>
 </head>
 <body style="background-color:tan">
-<!--<img src="Pic/" alt="Pic" style="width:400px;heigth:400px;">--!>
 <h1 style="text-align:center;">قصة النبي يوسف عليه السلام</h1>
-
 <hr>
 <p><a href="#1">البداية</a></p>
 <p><a href="#2">الرؤيا</a></p>
