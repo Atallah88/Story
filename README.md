@@ -1,4 +1,3 @@
-# Story
 <DOCTYPE html>
 <html>
 <head>
