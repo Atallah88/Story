@@ -54,4 +54,4 @@
 
 <hr>
 
-<p>تابعني على إنستغرام:<a href="https://www.instagram.com/ia_di8/?hl=ar" target="_blank">@ia_di8
+<p>Instagram:<a href="https://www.instagram.com/ia_di8/?hl=ar" target="_blank">@ia_di8
